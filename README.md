@@ -6,7 +6,7 @@
 
 <hr>
   
-## How to Activate Windows / Office?
+## How to Activate Windows / Office? b
 
 ### Method 1 - PowerShell (Windows 8 and later) ❤️
 
